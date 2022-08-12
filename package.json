@@ -1,0 +1,18 @@
+{
+  "name": "Superbonus888",
+  "main": "./lib/superbonus888",
+  "version": "0.0.0",
+  "description": "Superbonus888 เว็บพนันออนไลน์ยอดนิยม",
+  "keywords": [ "superbonus888"
+  ],
+  "activationCommands": {
+    "atom-workspace": "superbonus888:toggle"
+  },
+  "repository": "https://github.com/pwadmin123/superbonus888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

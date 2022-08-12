@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle superbonus888",
+        "command": "superbonus888:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "superbonus888",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "superbonus888:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
